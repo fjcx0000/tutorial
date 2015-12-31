@@ -1,3 +1,5 @@
 Git tutorial sample file
 连猴子都懂的Git命令
 add 把变更录入到索引中
+
+contents from tutorial
